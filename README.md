@@ -1,0 +1,2 @@
+# methodJava
+Repository about method 
